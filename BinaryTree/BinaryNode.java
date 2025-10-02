@@ -3,7 +3,7 @@ package assign08;
 /**
  * Represents a generically-typed binary tree node. Each binary node contains
  * data, a reference to the left child, and a reference to the right child. This
- * code was adapted from the lab 9 code
+ * code was adapted from the lab 9 code hi
  * 
  * @author Judy Ojewia and Natalie Hicks
  * @version March 21, 2024
